@@ -10,4 +10,4 @@ WORKDIR /nodejs
 
 RUN npm install
 
-EXPOSE 5000:5000
+EXPOSE 3000:3000
